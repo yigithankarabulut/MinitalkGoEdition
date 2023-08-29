@@ -4,5 +4,7 @@ Open two terminals. When you start the server you will see a Pid. Write the pid 
 Makefile Commands:
 
 make        : building server and client
+
 make fclean : delete server and client executable
+
 make re     : respectively fclean and make
